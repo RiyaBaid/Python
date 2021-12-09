@@ -16,4 +16,6 @@ print(x//y)
 # x-> 2 y->9
 # Step1: Start
 # Step2: Get the serial number as n 
-# Step3: If n%2=0,then add the next odd number but is it is not 0 then subract the next odd number
+# Step3: If n%2=0,then add the next odd number 
+# Step4: If n%2!=0,then subract the next odd number 
+# Step5:End
